@@ -1,8 +1,8 @@
 # Recipes
 
 Hi! This is a Recipes Project as part of the Odin Project Curriculum.
-Here I borrowed [allrecipe's](www.allrecipes.com) recipes which are the following recipes:
-- **Baked Potato Soup** Recipe by [Sherry Haupt](https://www.allrecipes.com/recipe/12997/)
+Here I borrowed [allrecipe's](https://www.allrecipes.com/) recipes which are the following recipes:
+- **Baked Potato Soup** Recipe by [Sherry Haupt](https://www.allrecipes.com/recipe/12997/baked-potato-soup-i/)
 - **Broccoli Cauliflower Casserole** Recipe by [MUSTANGSTEPH21](https://www.allrecipes.com/recipe/234281/broccoli-cauliflower-casserole/)
 - **Baked Ziti** Recipe by [Colleen](https://www.allrecipes.com/recipe/11758/baked-ziti-i/)
 
